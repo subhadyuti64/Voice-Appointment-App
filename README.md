@@ -1,5 +1,7 @@
 # Voice Appointment System
 
+Deployed App Link : https://june-cohort-2yg5.vercel.app/
+
 A full-stack TypeScript application that allows patients to book medical appointments using voice input, with separate dashboards for patients and doctors.
 
 ## Features
